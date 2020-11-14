@@ -1,5 +1,5 @@
 {
-  "name": "facerecognitionbrain-api",
+  "name": "smartbrainapi",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,11 @@
     "body-parser": "^1.19.0",
     "clarifai": "^2.9.1",
     "cors": "^2.8.5",
+    "done": "^1.1.7",
     "express": "^4.17.1",
-    "knex": "^0.21.2",
-    "nodemon": "^2.0.4",
-    "pg": "^8.3.0"
+    "knex": "^0.21.12",
+    "node": "^15.0.1",
+    "nodemon": "^2.0.6",
+    "pg": "^8.5.0"
   }
 }
